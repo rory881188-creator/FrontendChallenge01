@@ -1,0 +1,33 @@
+h3, p {
+  font-family: "Outfit", sans-serif;
+  text-align: center;
+  padding: 0px 20px;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+p {
+  font-size: 15px;
+  font-weight: 300;
+}
+
+.container {
+  padding: 100px;
+  margin: 0 auto;
+  background-color: hsl(212, 45%, 89%);
+}
+
+.card {
+  width: 288px;
+  margin: auto auto;
+  padding: 15px;
+  border-radius: 15px;
+  background-color: hsl(0, 0%, 100%)
+}
+
+.card img {
+  border-radius: 15px;
+}
